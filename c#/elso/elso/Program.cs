@@ -10,6 +10,9 @@ namespace elso
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world!");
+            int name=15
+            Console.WriteLine(name);
         }
     }
 }
