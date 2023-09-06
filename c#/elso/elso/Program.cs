@@ -11,8 +11,16 @@ namespace elso
         static void Main(string[] args)
         {
             Console.WriteLine("hello world!");
-            int name=15
+            int name = 15 ;
             Console.WriteLine(name);
+            int szam = -15;
+            Console.WriteLine(szam);
+            char betu = 'a';
+            Console.WriteLine(betu);
+            double ded = 12.3 ;
+            Console.WriteLine(ded);
+            
+
         }
     }
 }
