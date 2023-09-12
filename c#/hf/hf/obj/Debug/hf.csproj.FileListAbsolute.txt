@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\obj\Debug\hf.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\obj\Debug\hf.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\bin\Debug\hf.exe.config
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\bin\Debug\hf.exe
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\bin\Debug\hf.pdb
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\obj\Debug\hf.exe
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\hf\hf\obj\Debug\hf.pdb
