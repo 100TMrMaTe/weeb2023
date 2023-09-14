@@ -1,0 +1,42 @@
+html
+{
+    background-color: aqua;
+}
+table
+{
+    background-color: white;
+    border: 2px solid blue;
+    padding: 5px;
+}
+table
+{
+    width: 1200px;
+    margin: auto;
+}
+tr:nth-child(odd)
+{
+    background-color: blueviolet;
+}
+tr:nth-child(even)
+{
+    background-color: lightseagreen;
+}
+tr:nth-child(6)
+{
+    font-size: larger;
+}
+tr:nth-child(10) td
+{
+    border: 5px solid black;
+}
+tr:nth-child(n +6) td
+{
+    font-family: verdana;
+}
+tr:nth-child(even) :hover
+{
+    background-color: blueviolet;
+}tr:nth-child(odd) :hover
+{
+    background-color: lightseagreen;
+}
