@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\bin\Debug\net6.0\gyak3.exe
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\bin\Debug\net6.0\gyak3.deps.json
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\bin\Debug\net6.0\gyak3.runtimeconfig.json
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\bin\Debug\net6.0\gyak3.dll
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\bin\Debug\net6.0\gyak3.pdb
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.dll
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\refint\gyak3.dll
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.pdb
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\gyak3.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\konyhasim\weeb2023\c#\Új mappa\gyak3\gyak3\obj\Debug\net6.0\ref\gyak3.dll
