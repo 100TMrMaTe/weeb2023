@@ -16,8 +16,10 @@ for(double i=1;i<szam;i+=1)
    
 }
 
-
+/*
 for(double i=-10;i<=10;i+=0.1)
 {
     Console.WriteLine((i*i+i*3)/9(-5*(i*i));
 }
+*
+*/

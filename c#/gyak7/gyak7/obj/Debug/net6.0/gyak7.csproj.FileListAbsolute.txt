@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\bin\Debug\net6.0\gyak7.exe
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\bin\Debug\net6.0\gyak7.deps.json
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\bin\Debug\net6.0\gyak7.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\bin\Debug\net6.0\gyak7.dll
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\bin\Debug\net6.0\gyak7.pdb
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.dll
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\refint\gyak7.dll
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.pdb
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\gyak7.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\gyak7\gyak7\obj\Debug\net6.0\ref\gyak7.dll
