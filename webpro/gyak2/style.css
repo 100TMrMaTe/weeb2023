@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(tarkov.jpg);
+    color: orange;
+}
+fieldset
+{
+    width: 500px;
+}
+label
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+input[type="text"]
+{
+    border: 2px solid orange;
+}
+input[type="password"]
+{
+    background-color: orange;
+}
+option
+{
+    background-color: orange;
+}
