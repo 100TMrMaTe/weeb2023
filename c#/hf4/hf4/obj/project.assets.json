@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Helyi_munkakönyvtár\\konyhasimate\\weeb2023\\c#\\hf4\\hf4\\hf4.csproj",
+      "projectUniqueName": "D:\\konyhasimate\\weeb2023\\c#\\hf4\\hf4\\hf4.csproj",
       "projectName": "hf4",
-      "projectPath": "D:\\Helyi_munkakönyvtár\\konyhasimate\\weeb2023\\c#\\hf4\\hf4\\hf4.csproj",
+      "projectPath": "D:\\konyhasimate\\weeb2023\\c#\\hf4\\hf4\\hf4.csproj",
       "packagesPath": "C:\\Users\\konyhasim21\\.nuget\\packages\\",
-      "outputPath": "D:\\Helyi_munkakönyvtár\\konyhasimate\\weeb2023\\c#\\hf4\\hf4\\obj\\",
+      "outputPath": "D:\\konyhasimate\\weeb2023\\c#\\hf4\\hf4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\konyhasim21\\AppData\\Roaming\\NuGet\\NuGet.Config",
