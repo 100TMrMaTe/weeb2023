@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
+string[] hoszusag = { "mm", "cm", "dm", "m", "km" };
 bool jo = false;
 while (!jo)
 {
@@ -22,7 +22,24 @@ while (!jo)
     catch (Exception)
     {
         Console.WriteLine("nem jo  formatum!");
+        jo = false;
         continue;
     }
     Console.WriteLine(szam);
+    if (hoszusag.Contains(a[1]))
+    {
+    }
+    else
+    {
+        Console.WriteLine("nem jo mertek egyseg");
+        jo = false;
+        continue;
+    }
+    Console.WriteLine("mire valtsam at: ");
+    for (int i = 0; i < hoszusag.Length; i++)
+    {
+        Console.WriteLine(hoszusag[i]);
+    }
+    Console.Write("valassz: ");
+    string valasz=Console.ReadLine();d
 }
