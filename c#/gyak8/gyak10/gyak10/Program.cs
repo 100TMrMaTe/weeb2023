@@ -71,7 +71,7 @@ for (int i = 0; i < szavak.Length; i++)
 {
     Console.WriteLine(i);
 }
-*/
+
 
 int[] tomb=new int[1000];
 
@@ -83,3 +83,129 @@ for (int i=0; i<tomb.Length; i++)
 
 }
 Console.WriteLine(tomb);
+*/
+int[] tombkeszit(int darab,int legkisebb,int legnagyobb)
+{
+    int[] tomb=new int[darab];
+    Random rand= new Random();
+    for(int i=0;i< tomb.Length;i++)
+    {
+        tomb[i]=rand.Next(legkisebb,legnagyobb+1);
+    }
+
+    return tomb;
+}
+
+int[] tomb=tombkeszit(1000, 100, 999);
+
+/*
+int a = 1;
+int b = 1;
+for(int i=0;i<tomb.Length;i++)
+{
+    if (tomb[i]%2==0)
+    {
+        a += 1;
+    }
+    else
+    {
+        b += 1;
+    }
+}
+Console.WriteLine("{0} paros van",a);
+Console.WriteLine("{0} paratlan van", b);
+
+
+
+int b = 0;
+int a = 0;
+for (int i = 0; i < tomb.Length; i++)
+{
+    if (tomb[i] == b)
+    { 
+        a++; 
+    }
+    b = tomb[i];
+}
+Console.WriteLine("{0} egymas melleti azanos szamok ",a);
+
+
+
+int b = 1;
+int a = 0;
+for (int i =1; i < tomb.Length-1; i++)
+{
+    if (tomb[i] == tomb[i-1])
+    {
+        a++;
+        Console.WriteLine("{0} és {1} {2}={3}",i,i-1,tomb[i-1],tomb[i] );
+    }
+    b++;
+}
+Console.WriteLine("{0} egymas melleti azanos szamok ", a);
+
+
+
+
+bool a = false;
+for (int i = 1; i < tomb.Length; i++)
+{
+    if (tomb[i] == tomb[i - 1])
+    {
+        a=true;
+        Console.WriteLine("egxenlo {0}, {1}, {2}", i - 1, i, tomb[i-1], tomb[i]);
+    }
+}
+if(a)
+{
+    Console.WriteLine("van egyenlo");
+}
+else
+{
+    Console.WriteLine("nincs egyenlo");
+}
+
+int c = 0;
+for (int i = 1; i < tomb.Length; i++)
+{
+    if (tomb[i] > tomb[i - 1])
+    {
+        
+    }
+}
+Console.WriteLine("{0} egymas melleti azanos szamok ", a);
+*/
+void szakasz2(int[] szamtomb)
+{
+    int kezd = 0;
+    int veg = 0;
+    int maxkezd = 0;
+    int maxveg = 0;
+
+    for(int i=1; i< szamtomb.Length; i++)
+    {
+        if (szamtomb[i - 1] < szamtomb[i])
+        {
+
+        }
+        else
+        {
+            veg = i - 1;
+            if(veg-kezd+1>maxveg-maxkezd)
+            {
+                maxveg = veg;
+                maxkezd = kezd;
+            }
+            kezd = i;
+        }
+    }
+    Console.WriteLine("al legnagyobb novekvo szam sorozat: ",maxveg-maxkezd);
+    for (int i=maxkezd;i<maxveg+1;i++)
+    {
+        Console.Write("{0}, ", szamtomb[i]);
+    }
+    Console.WriteLine();
+}
+szakasz2(tomb);
+
+//csinalj egy fugveny ami a legnagyobb csokeno sorozatot adja vissza
