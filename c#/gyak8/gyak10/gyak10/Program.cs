@@ -83,22 +83,21 @@ for (int i=0; i<tomb.Length; i++)
 
 }
 Console.WriteLine(tomb);
-*/
-int[] tombkeszit(int darab,int legkisebb,int legnagyobb)
+
+int[] tombkeszit(int darab, int legkisebb, int legnagyobb)
 {
-    int[] tomb=new int[darab];
-    Random rand= new Random();
-    for(int i=0;i< tomb.Length;i++)
+    int[] tomb = new int[darab];
+    Random rand = new Random();
+    for (int i = 0; i < tomb.Length; i++)
     {
-        tomb[i]=rand.Next(legkisebb,legnagyobb+1);
+        tomb[i] = rand.Next(legkisebb, legnagyobb + 1);
     }
 
     return tomb;
 }
 
-int[] tomb=tombkeszit(1000, 100, 999);
+int[] tomb = tombkeszit(1000, 100, 999);
 
-/*
 int a = 1;
 int b = 1;
 for(int i=0;i<tomb.Length;i++)
@@ -175,6 +174,7 @@ for (int i = 1; i < tomb.Length; i++)
 }
 Console.WriteLine("{0} egymas melleti azanos szamok ", a);
 */
+/*
 void szakasz2(int[] szamtomb)
 {
     int kezd = 0;
@@ -209,3 +209,66 @@ void szakasz2(int[] szamtomb)
 szakasz2(tomb);
 
 //csinalj egy fugveny ami a legnagyobb csokeno sorozatot adja vissza
+void szakasz2(int[] szamtomb)
+{
+    int kezd = 0;
+    int veg = 0;
+    int maxkezd = 0;
+    int maxveg = 0;
+
+    for (int i = 1; i < szamtomb.Length; i++)
+    {
+        if (szamtomb[i - 1] < szamtomb[i])
+        {
+
+        }
+        else
+        {
+            veg = i - 1;
+            if (veg - kezd + 1 > maxveg - maxkezd)
+            {
+                maxveg = veg;
+                maxkezd = kezd;
+            }
+            kezd = i;
+        }
+    }
+    Console.WriteLine("al legnagyobb novekvo szam sorozat: ", maxveg - maxkezd);
+    for (int i = maxkezd; i < maxveg + 1; i++)
+    {
+        Console.Write("{0}, ", szamtomb[i]);
+    }
+    Console.WriteLine();
+}
+szakasz2(tomb);
+
+*/
+//készits egy fugvenyt amit vissza 10000 tagu 4 jegyupozitiv szamokat tartalmazo tombot, keresd me ga szakaszokat amik egymastol maximum 10 tavolsagra vannak.
+
+int[] tombkeszit(int darab, int legkisebb, int legnagyobb)
+{
+    int[] tomb = new int[darab];
+    Random rand = new Random();
+    for (int i = 0; i < tomb.Length; i++)
+    {
+        tomb[i] = rand.Next(legkisebb, legnagyobb + 1);
+    }
+
+    return tomb;
+}
+int[] tomb = tombkeszit(10000, 1000, 9999);
+
+for (int i = 1;i<tomb.Length; i++)
+{   
+    if(tomb[i - 1] - tomb[i] <= 100 && tomb[i - 1] - tomb[i] >= -100 )
+    { 
+        if(tomb[i] - tomb[i + 1] <= 100 && tomb[i] - tomb[i + 1] >= -100)
+        {
+            Console.Write(tomb[i - 1] + ", " + tomb[i] + ", " + tomb[i + 1] + "; ");
+            Console.WriteLine();
+        }
+            
+    }
+    
+    
+}
