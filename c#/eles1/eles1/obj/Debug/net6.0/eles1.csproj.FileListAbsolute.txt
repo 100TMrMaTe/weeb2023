@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\eles1\eles1\bin\Debug\net6.0\eles1.exe
+D:\konyhasimate\weeb2023\c#\eles1\eles1\bin\Debug\net6.0\eles1.deps.json
+D:\konyhasimate\weeb2023\c#\eles1\eles1\bin\Debug\net6.0\eles1.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\eles1\eles1\bin\Debug\net6.0\eles1.dll
+D:\konyhasimate\weeb2023\c#\eles1\eles1\bin\Debug\net6.0\eles1.pdb
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.dll
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\refint\eles1.dll
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.pdb
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\eles1.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\eles1\eles1\obj\Debug\net6.0\ref\eles1.dll

@@ -13,18 +13,21 @@ szam1 = szam1 * szam1;
 Console.WriteLine("c= "+Math.Sqrt(szam+szam1));
 */
 
-for(int i=1;i<100;i++)
+int a = 1;
+int b = 1;
+double c=Math.Sqrt(a*a+b*b);
+for(int i=1;i<50;i++)
 {
-    for (int a = 1; a < 100; a++)
+    for (int k = i; k < 50; k++)
     {
-        i = i * i;
-        a = a * a;
-        double c = Math.Sqrt(i + a);
+        c = Math.Sqrt(i*i+k*k);
         if (c%1==0)
         {
-            Console.WriteLine("a= "+i);
-            Console.WriteLine("b= " + a);
-            Console.WriteLine("c= " + c);
+            Console.WriteLine("{0,5} {1,5} {2,5}",i,k,c);
         }
     }
+}
+for(int i=1;i<=10;i++)
+{
+    Console.WriteLine("{0:0.00}",i);
 }
