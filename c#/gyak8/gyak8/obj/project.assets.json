@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\konyhasimate\\weeb2023\\c#\\gyak8\\gyak8\\gyak8.csproj",
+      "projectUniqueName": "D:\\konyhasimate\\weeb2023\\c#\\gyak8\\gyak8\\gyak8\\gyak8.csproj",
       "projectName": "gyak8",
-      "projectPath": "D:\\konyhasimate\\weeb2023\\c#\\gyak8\\gyak8\\gyak8.csproj",
+      "projectPath": "D:\\konyhasimate\\weeb2023\\c#\\gyak8\\gyak8\\gyak8\\gyak8.csproj",
       "packagesPath": "C:\\Users\\konyhasim21\\.nuget\\packages\\",
-      "outputPath": "D:\\konyhasimate\\weeb2023\\c#\\gyak8\\gyak8\\obj\\",
+      "outputPath": "D:\\konyhasimate\\weeb2023\\c#\\gyak8\\gyak8\\gyak8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\konyhasim21\\AppData\\Roaming\\NuGet\\NuGet.Config",

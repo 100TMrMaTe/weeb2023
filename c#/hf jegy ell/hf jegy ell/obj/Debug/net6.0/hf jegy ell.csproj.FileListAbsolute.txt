@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\bin\Debug\net6.0\hf jegy ell.exe
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\bin\Debug\net6.0\hf jegy ell.deps.json
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\bin\Debug\net6.0\hf jegy ell.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\bin\Debug\net6.0\hf jegy ell.dll
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\bin\Debug\net6.0\hf jegy ell.pdb
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.dll
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\refint\hf jegy ell.dll
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.pdb
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\hf jegy ell.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\hf jegy ell\hf jegy ell\obj\Debug\net6.0\ref\hf jegy ell.dll

@@ -1,0 +1,4 @@
+D:\konyhasimate\weeb2023\c#\projekt 1\projekt 1\obj\Debug\net6.0\projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\projekt 1\projekt 1\obj\Debug\net6.0\projekt 1.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\projekt 1\projekt 1\obj\Debug\net6.0\projekt 1.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\projekt 1\projekt 1\obj\Debug\net6.0\projekt 1.csproj.CoreCompileInputs.cache

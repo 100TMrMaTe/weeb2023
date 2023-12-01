@@ -1,0 +1,85 @@
+body{
+    background-color: aqua;
+}
+
+
+@keyframes div1 {
+    from {background-color: grey; 
+        width: 100px; 
+        height: 100px;
+    }
+    to {background-color: black; 
+        width: 200px; 
+        height: 200px;
+    }
+}
+#div1 {
+    animation-name: div1;
+    animation-duration: 6s;
+    margin-bottom: 40%;
+}
+@keyframes div2 {
+    from {background-color: black; 
+        width: 100px; 
+        height: 100px;
+    }
+    to {background-color: red; 
+        width: 200px; 
+        height: 200px;
+    }
+}
+#div2 {
+    animation-name: div2;
+    animation-duration: 6s;
+    margin:0%;
+    animation-delay: 6s;
+}
+@keyframes div3 {
+    from {background-color: red; 
+        width: 100px; 
+        height: 100px;
+    }
+    to {background-color: blue; 
+        width: 200px; 
+        height: 200px;
+    }
+}
+#div3 {
+    animation-name: div3;
+    animation-duration: 6s;
+    margin-left: 89%;
+    animation-delay: 12s;
+}
+@keyframes div4 {
+    from {background-color: blue; 
+        width: 100px; 
+        height: 100px;
+    }
+    to {background-color: yellow; 
+        width: 200px; 
+        height: 200px;
+    }
+}
+#div4 {
+    animation-name: div4;
+    animation-duration: 6s;
+    margin-bottom: -39%;
+    animation-delay: 18s;
+}
+
+@keyframes div5 {
+    from {background-color: yellow; 
+        width: 100px; 
+        height: 100px;
+    }
+    to {background-color: green; 
+        width: 200px; 
+        height: 200px;
+    }
+}
+#div5 {
+    animation-name: div5;
+    animation-duration: 6s;
+    margin-bottom: -40%;
+    animation-delay: 24s;
+}
