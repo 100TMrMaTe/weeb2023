@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\bin\Debug\net6.0\stringHF.exe
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\bin\Debug\net6.0\stringHF.deps.json
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\bin\Debug\net6.0\stringHF.runtimeconfig.json
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\bin\Debug\net6.0\stringHF.dll
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\bin\Debug\net6.0\stringHF.pdb
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.dll
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\refint\stringHF.dll
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.pdb
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\stringHF.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\konyhasimate\weeb2023\c#\stringHF\stringHF\obj\Debug\net6.0\ref\stringHF.dll
