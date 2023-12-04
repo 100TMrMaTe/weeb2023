@@ -36,7 +36,7 @@
             }
             else
             {
-                if(k.innerHTML==="0")
+                if(k.innerHTML==="0" || beforemuvelet==="=")
                 {
                     k.innerHTML="";
                 }
@@ -53,7 +53,28 @@
                 before+=parseInt(document.getElementById("kijelzo").innerHTML);
                 elozomuvelet=jel;
             }
-            console.log(jel);
+            else if(elozomuvelet==="-")
+            {
+                before-=parseInt(document.getElementById("kijelzo").innerHTML);
+                elozomuvelet=jel;
+            }
+            else if(elozomuvelet==="/")
+            {
+                before/=parseInt(document.getElementById("kijelzo").innerHTML);
+                elozomuvelet=jel;
+            }
+            else if(elozomuvelet==="*")
+            {
+                before*=parseInt(document.getElementById("kijelzo").innerHTML);
+                elozomuvelet=jel;
+            }
+            document.getElementById("kijelzo").innerHTML="0";
+            console.log(jel,before);
+
+            if(jel==="=")
+            {
+                document.getElementById("kijelzo").innerHTML=before;
+            }
         }
     </script>
     <h1></h1>
@@ -79,6 +100,7 @@
         <input type="button" value="0" id="nulla" onclick="nyomas('0')">
         <input type="button" value="C" id="" onclick="nyomas('C')">
         <input type="button" value="/" id="" onclick="muvelet('/')">
+        <input type="button" value="=" id="" onclick="muvelet('=')">
     </form>
 
 </body>
