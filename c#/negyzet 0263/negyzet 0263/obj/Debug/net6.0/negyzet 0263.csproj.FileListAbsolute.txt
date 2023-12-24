@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\bin\Debug\net6.0\negyzet 0263.exe
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\bin\Debug\net6.0\negyzet 0263.deps.json
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\bin\Debug\net6.0\negyzet 0263.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\bin\Debug\net6.0\negyzet 0263.dll
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\bin\Debug\net6.0\negyzet 0263.pdb
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.dll
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\refint\negyzet 0263.dll
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.pdb
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\negyzet 0263.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\negyzet 0263\negyzet 0263\obj\Debug\net6.0\ref\negyzet 0263.dll
