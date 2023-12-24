@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\bin\Debug\net6.0\termesfigyelo 0832.exe
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\bin\Debug\net6.0\termesfigyelo 0832.deps.json
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\bin\Debug\net6.0\termesfigyelo 0832.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\bin\Debug\net6.0\termesfigyelo 0832.dll
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\bin\Debug\net6.0\termesfigyelo 0832.pdb
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.dll
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\refint\termesfigyelo 0832.dll
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.pdb
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\termesfigyelo 0832.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\termesfigyelo 0832\termesfigyelo 0832\obj\Debug\net6.0\ref\termesfigyelo 0832.dll
