@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\bin\Debug\net6.0\repak 0376.exe
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\bin\Debug\net6.0\repak 0376.deps.json
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\bin\Debug\net6.0\repak 0376.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\bin\Debug\net6.0\repak 0376.dll
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\bin\Debug\net6.0\repak 0376.pdb
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.dll
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\refint\repak 0376.dll
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.pdb
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\repak 0376.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\repak 0376\repak 0376\obj\Debug\net6.0\ref\repak 0376.dll
