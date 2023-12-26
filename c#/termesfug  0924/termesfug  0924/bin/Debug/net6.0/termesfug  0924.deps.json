@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "termesfug  0924/1.0.0": {
+        "runtime": {
+          "termesfug  0924.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "termesfug  0924/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

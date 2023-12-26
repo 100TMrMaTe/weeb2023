@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\bin\Debug\net6.0\termesfug  0924.exe
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\bin\Debug\net6.0\termesfug  0924.deps.json
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\bin\Debug\net6.0\termesfug  0924.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\bin\Debug\net6.0\termesfug  0924.dll
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\bin\Debug\net6.0\termesfug  0924.pdb
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.dll
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\refint\termesfug  0924.dll
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.pdb
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\termesfug  0924.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\termesfug  0924\termesfug  0924\obj\Debug\net6.0\ref\termesfug  0924.dll
