@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\bin\Debug\net6.0\grafikon 0718.exe
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\bin\Debug\net6.0\grafikon 0718.deps.json
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\bin\Debug\net6.0\grafikon 0718.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\bin\Debug\net6.0\grafikon 0718.dll
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\bin\Debug\net6.0\grafikon 0718.pdb
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.dll
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\refint\grafikon 0718.dll
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.pdb
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\grafikon 0718.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\grafikon 0718\grafikon 0718\obj\Debug\net6.0\ref\grafikon 0718.dll
