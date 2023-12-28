@@ -17,7 +17,7 @@ for(int i = 0;i < s.Length;i++)
     }
     else
     {
-        Console.Write("adjon meg egy kisbetus karakter!: ");
+        Console.Write("kérem kis betus karaktert adjon meg!: ");
         w= Console.ReadLine();
     }
 }
@@ -50,7 +50,7 @@ while (true)
     }
     else
     {
-        Console.Write("adjon meg egy kisbetut!: ");
+        Console.Write("kérem kis betus karaktert adjon meg!: ");
         a = Console.ReadLine();
     }
       
@@ -75,7 +75,7 @@ while (true)
     else
     {
         Console.WriteLine("not an Uppercase Letter ");
-        Console.Write("kérek egy kisbetut: ");
+        Console.Write("kérem kis betus karaktert adjon meg!: ");
         b = Console.ReadKey().KeyChar;
         Console.WriteLine();
     }
