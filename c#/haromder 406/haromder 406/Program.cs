@@ -1,10 +1,11 @@
 ﻿using System.Text;
-
-Console.Write("a: ");
+Console.WriteLine("Konyhási Máté")
+Console.WriteLine("A harom oldal bekérése utan a program eldonti szerkesztheto e  a haromszog ha igen vissza tér a haromszog keruletevel")
+Console.Write("kérem háromszög a oldalat: ");
 int a=Convert.ToInt32(Console.ReadLine());
-Console.Write("b: ");
+Console.Write("kérem háromszög b oldalat: ");
 int b=Convert.ToInt32(Console.ReadLine());
-Console.Write("c: ");
+Console.Write("kérem háromszög c oldalat: ");
 int c=Convert.ToInt32(Console.ReadLine());
 
 int kerulet = 0;
