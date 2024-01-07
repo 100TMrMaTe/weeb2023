@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\bin\Debug\net6.0\szeros 0543.exe
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\bin\Debug\net6.0\szeros 0543.deps.json
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\bin\Debug\net6.0\szeros 0543.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\bin\Debug\net6.0\szeros 0543.dll
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\bin\Debug\net6.0\szeros 0543.pdb
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.dll
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\refint\szeros 0543.dll
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.pdb
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\szeros 0543.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\szeros 0543\szeros 0543\obj\Debug\net6.0\ref\szeros 0543.dll
