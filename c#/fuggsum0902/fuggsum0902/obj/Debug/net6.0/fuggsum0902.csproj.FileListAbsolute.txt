@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\bin\Debug\net6.0\fuggsum0902.exe
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\bin\Debug\net6.0\fuggsum0902.deps.json
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\bin\Debug\net6.0\fuggsum0902.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\bin\Debug\net6.0\fuggsum0902.dll
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\bin\Debug\net6.0\fuggsum0902.pdb
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.dll
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\refint\fuggsum0902.dll
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.pdb
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\fuggsum0902.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\fuggsum0902\fuggsum0902\obj\Debug\net6.0\ref\fuggsum0902.dll
