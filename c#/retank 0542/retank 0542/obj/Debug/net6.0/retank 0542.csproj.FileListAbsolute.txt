@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\bin\Debug\net6.0\retank 0542.exe
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\bin\Debug\net6.0\retank 0542.deps.json
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\bin\Debug\net6.0\retank 0542.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\bin\Debug\net6.0\retank 0542.dll
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\bin\Debug\net6.0\retank 0542.pdb
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.dll
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\refint\retank 0542.dll
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.pdb
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\retank 0542.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\retank 0542\retank 0542\obj\Debug\net6.0\ref\retank 0542.dll

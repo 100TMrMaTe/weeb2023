@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\bin\Debug\net6.0\pulzus 0353.exe
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\bin\Debug\net6.0\pulzus 0353.deps.json
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\bin\Debug\net6.0\pulzus 0353.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\bin\Debug\net6.0\pulzus 0353.dll
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\bin\Debug\net6.0\pulzus 0353.pdb
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.dll
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\refint\pulzus 0353.dll
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.pdb
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\pulzus 0353.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\pulzus 0353\pulzus 0353\obj\Debug\net6.0\ref\pulzus 0353.dll

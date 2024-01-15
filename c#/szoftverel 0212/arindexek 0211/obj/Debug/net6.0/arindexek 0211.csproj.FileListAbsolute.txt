@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\bin\Debug\net6.0\arindexek 0211.exe
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\bin\Debug\net6.0\arindexek 0211.deps.json
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\bin\Debug\net6.0\arindexek 0211.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\bin\Debug\net6.0\arindexek 0211.dll
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\bin\Debug\net6.0\arindexek 0211.pdb
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.dll
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\refint\arindexek 0211.dll
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.pdb
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\arindexek 0211.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\arindexek 0211\arindexek 0211\obj\Debug\net6.0\ref\arindexek 0211.dll

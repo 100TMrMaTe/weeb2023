@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\bin\Debug\net6.0\haromder 406.exe
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\bin\Debug\net6.0\haromder 406.deps.json
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\bin\Debug\net6.0\haromder 406.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\bin\Debug\net6.0\haromder 406.dll
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\bin\Debug\net6.0\haromder 406.pdb
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.dll
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\refint\haromder 406.dll
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.pdb
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\haromder 406.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\haromder 406\haromder 406\obj\Debug\net6.0\ref\haromder 406.dll

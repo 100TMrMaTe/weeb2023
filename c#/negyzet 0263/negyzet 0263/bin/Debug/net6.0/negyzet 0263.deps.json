@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "negyzet 0263/1.0.0": {
+        "runtime": {
+          "negyzet 0263.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "negyzet 0263/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

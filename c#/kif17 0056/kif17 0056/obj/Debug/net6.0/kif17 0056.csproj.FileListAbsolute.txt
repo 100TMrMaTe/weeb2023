@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\bin\Debug\net6.0\kif17 0056.exe
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\bin\Debug\net6.0\kif17 0056.deps.json
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\bin\Debug\net6.0\kif17 0056.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\bin\Debug\net6.0\kif17 0056.dll
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\bin\Debug\net6.0\kif17 0056.pdb
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.dll
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\refint\kif17 0056.dll
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.pdb
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\kif17 0056.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\kif17 0056\kif17 0056\obj\Debug\net6.0\ref\kif17 0056.dll
