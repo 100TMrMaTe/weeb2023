@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>cim</h1>
+    <button onclick="ujelem()">uj elem</button>
+    <div id="container"></div>
+    <script>
+        function ujelem()
+        {
+            let tarolo=document.getElementById("container");
+
+            uj=document.createElement("div");
+            uj.innerHTML="valami";
+            uj.onclick=function() {this.style.border="1px solid red"};
+
+            uj.ondblclick=function(){this.remove();};
+
+            tarolo.appendChild(uj);
+        }
+    </script>
+</body>
+</html>

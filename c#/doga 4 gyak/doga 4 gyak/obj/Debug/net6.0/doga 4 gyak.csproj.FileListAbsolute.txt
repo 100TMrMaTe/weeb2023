@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\bin\Debug\net6.0\doga 4 gyak.exe
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\bin\Debug\net6.0\doga 4 gyak.deps.json
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\bin\Debug\net6.0\doga 4 gyak.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\bin\Debug\net6.0\doga 4 gyak.dll
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\bin\Debug\net6.0\doga 4 gyak.pdb
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.dll
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\refint\doga 4 gyak.dll
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.pdb
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\doga 4 gyak.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\doga 4 gyak\doga 4 gyak\obj\Debug\net6.0\ref\doga 4 gyak.dll

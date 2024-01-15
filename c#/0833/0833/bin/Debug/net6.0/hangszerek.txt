@@ -1,0 +1,21 @@
+|  Id |  Name   |  Type   |  ItemNumber  |  Price  |  Category  |
+|  1  | hegedű  | Soundsation PV-116 | 343823  | 37400  | vonós  |
+|  2  | hegedű  | Soundsation PVI-34 | 348924  | 38670  | vonós  |
+|  3  | hegedű  | Soundsation VSVI-12 | 348922 | 52300 | vonós  |
+|  4  | hegedű  | Soundsation E-master | 358421 | 102400 | vonós |
+|  5  | cselló  | Soundsation PCE-12 | 438438 | 172500  | vonós  |
+|  6  | cselló  | Soundsation PCE-44 | 493484 | 168000 | vonós  |
+|  7  | cselló  | Soundsation VSCE-12 | 438483 | 211000 | vonós |
+|  8  | cselló  | Soundsation VPCE-44 | 482948 | 512000 | vonós  |
+|  9  | brácsa  | Soundsation VIOVS-15 | 483433 | 89000 | vonós  |
+|  10  | brácsa  | Soundsation VIOVS-16 | 482934 | 77800 | vonós  |
+|  11  | klarinét | Soundsation SCL-10E | 534323 | 89300  | fúvós  |
+|  12  | klarinét | Soundsation SCL-20  | 534328 | 130100 | fúvós  |
+|  13  | fuvolák  | Soundsation SFL-10E | 543234 | 97500  | fúvós  |
+|  14  | fuvolák  | Soundsaton SFP-10 | 548934  | 119000 | fúvós  |
+|  15  | furulya  | Angel ASRG-50 | 553282 | 1100 | fúvós |
+|  16  | furulya  | SUZUKI SRE-80 | 554838 | 2100 | fúvós |
+|  17  | furulya  | AULOS 203A | 559234 | 4200 | fúvós |
+|  18  | furulya  | AULOS 309A | 558923 | 14700 | fúvós |
+|  19  | trombita | Soundsation | 569843 | 129000 | fúvós |
+|  20  | trombita | Soundsation | 567344 w 117000 | fúvós  |

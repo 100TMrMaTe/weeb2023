@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,th,td{
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+
+        }
+        th,td{
+            padding: 10px;
+        }
+    </style>
+</head>
+<body onload="init()">
+    <table class="c-table" onmousedown="hoverColorFill()">
+        <tr>
+            <th>Óra</th>
+            <th>Osztály/csoport</th>
+            <th>ágazat/tagozat</th>
+            <th>tantárgy</th>
+            <th>oktató</th>
+            <th>dátum</th>
+        </tr>
+        <tr>
+            <td >1.</td>
+            <td>9.H</td>
+            <td>gimnázium</td>
+            <td>földrajz </td>
+            <td>Vránicsné Bődi Ildikó </td>
+            <td>2023.11.27. (B hét hétfő)</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>9.C</td>
+            <td>egészségügy</td>
+            <td>Történelem</td>
+            <td>Sudár István Ákos</td>
+            <td>2023.11.27. (B hét hétfő)</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>9.C</td>
+            <td>gazd. és menedzsment</td>
+            <td>Történelem</td>
+            <td>Sudár István Ákos</td>
+            <td>2023.11.27. (B hét hétfő)</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>12.B1</td>
+            <td>gépészet</td>
+            <td>Műszaki számítások</td>
+            <td>Kovács István</td>
+            <td>2023.11.27. (B hét hétfő)</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>9.D</td>
+            <td>informatika és távközlés</td>
+            <td>informatikai és távközlési alapok</td>
+            <td>Böndicz János</td>
+            <td>2023.11.27. (B hét hétfő)</td>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>11B</td>
+            <td>oktatás</td>
+            <td>testnevelés</td>
+            <td>Jüngling-Czotter Éva</td>
+            <td>2023.11.27. (B hét hétfő)</td>
+        </tr>
+    </table>
+    <script>
+        function fugveny(elem)
+        {
+            //console.dir(elem);
+            elem.style.backgroundColor="blue";
+            //console.dir(elem);
+        }
+        function fugveny1(elem)
+        {
+            elem.style.backgroundColor="";
+        }
+
+        function init()
+        {
+            let a=document.getElementsByTagName("td");
+            for(let i=0;i<a.length;i++)
+            {
+                a[i].addEventListener("mouseover", function() {fugveny(a[i]);});
+                a[i].addEventListener("mouseout", function() {fugveny1(a[i]);});
+            }
+        }
+    </script>
+</body>
+</html>
+
+
+	
