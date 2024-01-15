@@ -1,0 +1,14 @@
+F:\Új mappa\python\weeb2023\c#\306\306\bin\Debug\net6.0\306.exe
+F:\Új mappa\python\weeb2023\c#\306\306\bin\Debug\net6.0\306.deps.json
+F:\Új mappa\python\weeb2023\c#\306\306\bin\Debug\net6.0\306.runtimeconfig.json
+F:\Új mappa\python\weeb2023\c#\306\306\bin\Debug\net6.0\306.dll
+F:\Új mappa\python\weeb2023\c#\306\306\bin\Debug\net6.0\306.pdb
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.GeneratedMSBuildEditorConfig.editorconfig
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.AssemblyInfoInputs.cache
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.AssemblyInfo.cs
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.csproj.CoreCompileInputs.cache
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.dll
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\refint\306.dll
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.pdb
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\306.genruntimeconfig.cache
+F:\Új mappa\python\weeb2023\c#\306\306\obj\Debug\net6.0\ref\306.dll
