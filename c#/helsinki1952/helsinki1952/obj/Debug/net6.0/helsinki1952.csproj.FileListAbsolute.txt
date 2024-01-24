@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\bin\Debug\net6.0\helsinki1952.exe
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\bin\Debug\net6.0\helsinki1952.deps.json
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\bin\Debug\net6.0\helsinki1952.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\bin\Debug\net6.0\helsinki1952.dll
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\bin\Debug\net6.0\helsinki1952.pdb
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.dll
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\refint\helsinki1952.dll
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.pdb
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\helsinki1952.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\helsinki1952\helsinki1952\obj\Debug\net6.0\ref\helsinki1952.dll

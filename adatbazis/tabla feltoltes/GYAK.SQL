@@ -31,3 +31,17 @@ CREATE TABLE ido (id int(10) AUTO_INCREMENT PRIMARY KEY,
 	ora INT,
 	osztalyid INT,
 	oktato2tantargyid INT);
+	
+CREATE TABLE eredeti(
+	id int(10) AUTO_INCREMENT PRIMARY KEY,
+	ora int(10),
+	osztaly VARCHAR(50),
+	agazat VARCHAR(50),
+	tantargy VARCHAR(50),
+	oktato VARCHAR(50),
+	osztalyfonok VARCHAR(50),
+	datum DATE
+);
+
+INSERT INTO eredeti (ora,osztaly,agazat,tantargy,oktato,osztalyfonok,datum)
+VALUES
