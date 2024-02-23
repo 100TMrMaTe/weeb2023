@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\jaror\jaror\bin\Debug\net6.0\jaror.exe
+D:\konyhasimate\weeb2023\c#\jaror\jaror\bin\Debug\net6.0\jaror.deps.json
+D:\konyhasimate\weeb2023\c#\jaror\jaror\bin\Debug\net6.0\jaror.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\jaror\jaror\bin\Debug\net6.0\jaror.dll
+D:\konyhasimate\weeb2023\c#\jaror\jaror\bin\Debug\net6.0\jaror.pdb
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.dll
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\refint\jaror.dll
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.pdb
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\jaror.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\jaror\jaror\obj\Debug\net6.0\ref\jaror.dll

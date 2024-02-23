@@ -1,0 +1,14 @@
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.exe
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.deps.json
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.dll
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.pdb
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.dll
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\refint\fogadoora.dll
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.pdb
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\fogadoora\fogadoora\obj\Debug\net6.0\ref\fogadoora.dll

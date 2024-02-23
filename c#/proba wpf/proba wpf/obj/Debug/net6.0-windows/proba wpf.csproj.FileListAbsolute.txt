@@ -1,0 +1,20 @@
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.exe
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.deps.json
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.runtimeconfig.json
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.dll
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.pdb
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\App.g.cs
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf_MarkupCompile.cache
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf_MarkupCompile.lref
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\MainWindow.baml
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.g.resources
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.AssemblyInfoInputs.cache
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.AssemblyInfo.cs
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.csproj.CoreCompileInputs.cache
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.dll
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\refint\proba wpf.dll
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.pdb
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.genruntimeconfig.cache
+D:\konyhasimate\weeb2023\c#\proba wpf\proba wpf\obj\Debug\net6.0-windows\ref\proba wpf.dll
