@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>document</title>
+</head>
+<body>
+    <p>gondoltam egy szamra 0 es 9 kozott. Talald ki</p>
+    <input type="number" id="tipp" min="0" max="9">
+    <button onclick="myFunction()">tipp</button>
+    <p id="demo"></p>
+
+    <script>
+        const rand = Math.floor(Math.random() * 10);
+        let tippeksz = 0;
+
+        function myFunction() {
+            // Növeljük a próbálkozások számát
+            tippeksz++;
+            
+            // Beolvassuk a felhasználó tippjét
+            const tipped = parseInt(document.getElementById("tipp").value);
+            
+            // Ellenőrizzük a tippet
+            if (tipped === rand) 
+            {
+                document.getElementById("demo").textContent = "talalt";
+            } 
+            else if (tippeksz < 3) 
+            {
+                document.getElementById("demo").innerHTML = "nem talalt probaéd ujra";
+                document.getElementById("tipp").value=""
+            } 
+            else 
+            {
+                document.getElementById("demo").textContent = "vesztettel";
+            }
+        }
+    </script>
+</body>
+</html>
