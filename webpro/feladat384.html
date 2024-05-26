@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+</head>
+<body>
+    <form>
+        <label for="szam">Adj meg egy szamot: </label>
+        <input type="number" id="szam"><br>
+    </form>
+    <button onclick="myFunction()">Számol</button>
+    <div id="demo"></div>
+    <div id="demo1"></div>
+    <script>
+        function myFunction() {
+        let szam1 = parseInt(document.getElementById("szam").value);
+            let cosi = Math.cos(szam1);
+            let negyz = Math.sqrt(szam1);
+
+            document.getElementById("demo").innerHTML = "a szam koszinusza: "+parseFloat(cosi)
+            document.getElementById("demo1").innerHTML = "a szam negyzetgyoke: "+parseFloat(negyz)
+        }
+    </script>
+</body>
+</html>
