@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+</head>
+<body>
+    <form>
+        <label for="a">Add meg az 'a' oldal hosszát: </label>
+        <input type="number" id="a"><br>
+        <label for="b">Add meg a 'b' oldal hosszát: </label>
+        <input type="number" id="b"><br>
+        <label for="c">Add meg a 'c' oldal hosszát: </label>
+        <input type="number" id="c"><br>
+    </form>
+    <button onclick="myFunction()">Számol</button>
+    <div id="demo"></div>
+    <script>
+        function myFunction() 
+        {
+            let a = parseFloat(document.getElementById("a").value);
+            let b = parseFloat(document.getElementById("b").value);
+            let c = parseFloat(document.getElementById("c").value);
+            kerulet=a+b+c;
+            document.getElementById("demo").innerHTML = "A háromszög kerülete: " + kerulet;
+        }
+    </script>
+</body>
+</html>
