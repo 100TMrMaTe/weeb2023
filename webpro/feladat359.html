@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+</head>
+<body>
+    <form>
+        <label for="a">add meg a negyzet egy oldalat: </label>
+        <input type="number" id="a"><br>
+    </form>
+    <button onclick="myFunction()">szamol</button>
+    <div id="demo"></div>
+    <script>
+        function myFunction() {
+            let a = parseInt(document.getElementById("a").value);
+            let atlo = Math.sqrt(2) * a;
+            document.getElementById("demo").innerHTML = "A negyzet atolja: " + atlo;
+        }
+    </script>
+</body>
+</html>
