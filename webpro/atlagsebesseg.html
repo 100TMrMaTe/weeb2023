@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>document</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+    </head>
+    <body>
+        <form>
+            <label for="szam1">megtett ut: </label>
+            <input type="text" id="szam1" name="szam1"><br><br>
+            <label for="szam2">ido: </label>
+            <input type="text" id="szam2" name="szam2"><br><br>
+        </form>
+        <button onclick="my()">szamol</button>
+        <script>
+            function my()
+            {
+                let s=document.getElementById("szam1").value
+                let t=document.getElementById("szam2").value
+                let v=s/t
+                document.getElementById("demo").innerHTML=(v+" m/s")
+            } 
+        </script>
+        <div id="demo"></div>
+    </body>
+</html>
