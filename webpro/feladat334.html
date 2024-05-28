@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="szam1">elso oldal: </label>
+        <input type="text" id="szam1" name="szam1"><br><br>
+        <label for="szam2">masodik oldal: </label>
+        <input type="text" id="szam2" name="szam2"><br><br>
+    </form>
+    <button onclick="my()"> szamol</button>
+    <script>
+        function my()
+        {
+            let a=document.getElementById("szam1").value
+            let b=document.getElementById("szam2").value
+            let osszs=Math.sqrt((a*a)+(b*b))
+            document.getElementById("demo").innerHTML=osszs
+        }    
+    </script>
+    <div id="demo"></div>
+</body>
+</html>
