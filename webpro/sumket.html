@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>document</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const a = document.getElementById("a");
+                const b = document.getElementById("b");
+                const result = document.getElementById('ered');
+                
+                document.getElementById('demo').onclick = function() {
+                    let na = Number(a.value);
+                    if (isNaN(na)) {
+                        
+                        na = 0;
+                        a.value = na
+                    }
+
+                    let nb = Number(b.value);
+                    if (isNaN(nb)) {
+                        nb = 0
+                        b.value = nb;
+                    }
+
+                    ered.value = na + nb;
+                };
+            });
+        </script>
+    </head>
+    <body>
+        <h1>Összeadás</h1>
+        <p>a = <input id="a" type="text" /></p>
+        <p>b = <input id="b" type="text" /></p>
+        <p>a + b = <input id="ered" type="text"/></p>
+        <button id="demo">osszeadas</button>
+    </body>
+</html>

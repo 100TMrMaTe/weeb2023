@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="demo"></div>
+    <script>
+        let pl="almafa"
+        function my(mondat)
+        {
+            let count = 0
+            for (let i = 0; i < mondat.length; i++)
+                {
+                    if (mondat[i] === 'a')
+                        {
+                            count++;
+                        }
+                }
+                return count;
+        }
+        document.getElementById("demo").innerHTML=my(pl)
+            
+    </script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>document</title>
+</head>
+<body>
+
+<h2>Verbális gondolkodás tesztje</h2>
+
+<form>
+  <ol>
+    <li>
+      <p>Mit jelent a fagyott?</p>
+      <label><input type="radio" value="folyékony"> folyékony</label><br>
+      <label><input type="radio" id="r11" value="szilárd"> szilárd</label><br>
+      <label><input type="radio" value="enyvezett"> enyvezett</label><br>
+      <label><input type="radio" value="víz"> víz</label>
+    </li>
+    <li>
+      <p>A korán ellentéte az</p>
+      <label><input type="radio" value="reggeli"> reggeli</label><br>
+      <label><input type="radio" id="r22" value="késő"> késő</label><br>
+      <label><input type="radio" value="elhalaszt"> elhalaszt</label><br>
+      <label><input type="radio" value="este"> este</label>
+    </li>
+    <li>
+      <p>A porció jelentése</p>
+      <label><input type="radio" value="csipetnyi"> csipetnyi</label><br>
+      <label><input type="radio" value="egész"> egész</label><br>
+      <label><input type="radio" id="r33" value="rész"> rész</label><br>
+      <label><input type="radio" value="semmi"> semmi</label>
+    </li>
+    <li>
+      <p>A zokni és a láb úgy viszonyul, mint a kalap és a</p>
+      <label><input type="radio" value="haj"> haj</label><br>
+      <label><input type="radio" value="arc"> arc</label><br>
+      <label><input type="radio" value="pánt"> pánt</label><br>
+      <label><input type="radio" id="r44" value="fej"> fej</label>
+    </li>
+  </ol>
+  <button type="button" onclick="my()">ertekel</button>
+  <div id="jelzes"></div>
+</form>
+
+<script>
+    function my()
+    {
+            let pont=0;
+        if (document.getElementById("r11").checked) 
+            {
+                pont++;
+            }
+        if (document.getElementById("r22").checked) 
+            {
+                pont++;
+            }
+        if (document.getElementById("r33").checked) 
+            {
+                pont++;
+            }
+        if (document.getElementById("r44").checked) 
+            {
+                pont++;
+            }
+        if(pont==0)
+        {
+            document.getElementById("jelzes").innerHTML="nem jellemző"
+        }
+        if(pont==1)
+        {
+            document.getElementById("jelzes").innerHTML="valami alakul"
+        }
+        if(pont==2)
+        {
+            document.getElementById("jelzes").innerHTML="közepes"
+        }
+        if(pont==3)
+        {
+            document.getElementById("jelzes").innerHTML="jó verbalitás"
+        }
+        if(pont==4)
+        {
+            document.getElementById("jelzes").innerHTML="kiváló verbalitás"
+        }
+    }
+    
+</script>
+
+</body>
+</html>

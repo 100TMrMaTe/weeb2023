@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Gépelő</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            #text {
+                font-size: 50px;
+            }
+
+            #letter {
+                font-size: 60px;
+                width: 60px;
+                text-align: center;
+            }
+
+            .success {
+                color: green;
+            }
+        </style>
+        <script type="text/javascript">
+            document.addEventListener("DOMContentLoaded", function() {
+                const text = document.getElementById('text');
+                const letter = document.getElementById('letter');
+                const errorCnt = document.getElementById('errorCnt');
+                const resetBtn = document.getElementById('reset');
+
+                let riddle = '';
+                let progress = 0;
+                let errors = 0;
+                function generateText() {
+                    progress = 0;
+                    errors = 0;
+                    const hungarianABC = ['a', 'á', 'b', 'c', 'd', 'e', 'é', 'f', 'g', 'h', 'i', 'í', 'j', 'k', 'l', 'm', 'n', 'o', 'ó', 'ö', 'ő', 'p', 'q', 'r', 's', 't', 'u', 'ú', 'ü', 'ű', 'v', 'w', 'x', 'y', 'z'];
+                    let o = '';
+                    for (let i = 0; i < 10; ++i) {
+                        o += hungarianABC[Math.floor(Math.random() * hungarianABC.length)];
+                    }
+                    riddle = o;
+                    updateText();
+                }
+
+                function updateText() {
+                    text.innerHTML = '';
+                    const resolvedText = riddle.slice(0, progress);
+                    const unResolvedText = riddle.slice(progress);
+                    const resolvedContainer = document.createElement('strong');
+                    resolvedContainer.innerText = resolvedText;
+                    text.appendChild(resolvedContainer);
+                    const unResolvedContainer = document.createElement('span');
+                    unResolvedContainer.innerText = unResolvedText;
+                    text.appendChild(unResolvedContainer);
+                    errorCnt.innerText = errors;
+                }
+
+                letter.oninput = function() {
+                    const typedLetter = letter.value;
+                    letter.value = '';
+
+                    const nextLetterRequired = riddle[progress];
+                    if (typedLetter === nextLetterRequired) {
+                        ++progress;
+                    }
+                    else {
+                        ++errors;
+                    }
+
+                    updateText();
+
+                    if (progress === riddle.length) {
+                        text.classList.add('success');
+                        letter.readOnly = true;
+                    }
+                };
+
+                function reset() {
+                    text.classList.remove('success');
+                    generateText();
+                    letter.readOnly = false;
+                    letter.focus();
+                }
+                
+                resetBtn.onclick = reset;
+                reset();
+            });
+        </script>
+    </head>
+    <body>
+        <h1>Gépelő</h1>
+        <p>Kérlek, gépeld le az alábbi betűket:</p>
+        <p id="text"></p>
+        <input id="letter" type="text" />
+        <p>Hibák: <span id="errorCnt"></span></p>
+        <button id="reset">Újrakezd</button>
+    </body>
+</html>
